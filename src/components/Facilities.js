@@ -1,5 +1,5 @@
 import React from 'react'
-import CardItem2 from './CardItem2'
+import CardItem2 from './CardItem'
 import './Facilities.css'
 import pic1 from '../images/tc-consulting.jpg'
 import pic2 from '../images/NFT.jpg'
